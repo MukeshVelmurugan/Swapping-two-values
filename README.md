@@ -30,7 +30,8 @@ in1=temp
 print("Swapped values are:",in1,in2)
 ```
 ## OUTPUT:
-![model](./swapping.png)
+![swapping](https://user-images.githubusercontent.com/118707363/211735107-dde7adc9-35a7-482e-adb9-afe8c365801e.png)
+
 
 
 
